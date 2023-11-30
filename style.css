@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+main {
+    background-image: url("b.jpg");
+    background-size: cover; /* or contain, or a specific size */
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 100%;
+}
